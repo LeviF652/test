@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>levi's webPage</title>
+        <style>
+            
+            h1{
+                color: rgb(255, 0, 255);
+            }
+            
+            .levis-things {
+                color: rgb(255, 0, 0);
+            }
+            
+            body {
+                background-color: rgb(255, 0, 255);
+            }
+            
+            #page {
+                width: 200px;
+                margin: auto;
+            }
+            
+            #hedline {
+                margin-left: 125px;
+                
+                
+            }
+            
+            #h2 {
+                padding-left: 25px;
+            }
+            
+            #contaner {
+                background-color: rgb(0, 255, 255);
+            }
+        
+            #coding {
+                position: absolute;
+                top: 100px;
+                left: 100;
+                font-size: 20px;
+                background-color: rgb(0, 255, 0);
+            }
+            
+            #kniting {
+                position: absolute;
+                top: top;
+                left: 200;
+                background-color: rgb(0, 255, 0);
+                font-size: 20px;
+            }
+            
+            #origami {
+                position: absolute;
+                top: top;
+                left: 300;
+                background-color: rgb(0, 255, 0);
+                font-size: 20px;
+            }
+            
+             #maping {
+                position: absolute;
+                top: top;
+                left: 400;
+                background-color: rgb(0, 255, 0);
+                font-size: 20px;
+            }
+            
+            #magic {
+                position: absolute;
+                top: top;
+                left: 500;
+                background-color: rgb(0, 255, 0);
+                font-size: 20px;
+            }
+            
+        </style>
+    </head>
+    <body>
+    
+    
+<div id="contaner">
+    <h1 id="hedline">all about levi's webPage!</h1>
+        <div id="page">    
+    <h2 class="levis-things" id="h2">levi's hobbies</h2>
+    
+    <p class="levis-things" id="sidbar"><span id="coding"><a href="https://www.khanacademy.org/profile/kaid_8741975217685822676313920/projects">coding</a></span> <a id="kniting" href="https://www.khanacademy.org/computer-programming/kniting/6491671997104128">kniting</a> <a id="origami" href="https://www.khanacademy.org/computer-programming/origami/6004842722148352">origami</a> <a   id="maping" href="?">maping</a>  <a id="magic" href="https://www.khanacademy.org/computer-programming/magic/5568890153385984">magic</a></p>
+</div>
+</div>
+    </body>
+</html>
